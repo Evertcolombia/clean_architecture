@@ -1,6 +1,11 @@
 1 - web ui project name -> C# Web app
 
+    1.1- Change DefaultConnection
+    1.2- create a migration
+    1.3- update database
+    1.4- run the project
+
 
 2- Domain project name -> C# class library
-
+    
 
