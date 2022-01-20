@@ -16,8 +16,9 @@
     3.2- create UniversityDBContext class on this context folder
     3.3- install entity framework core as dependency in this project
 
+4- Application project name   -> C# class library
 
 nuget commands:
 
 - add migration ->$ add-migration "InitialMigration" -Context UniversityDBContext
-- update db:    ->$ update-database -Context UniversityDBContext
+- update db     ->$ update-database -Context UniversityDBContext
